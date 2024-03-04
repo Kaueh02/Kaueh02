@@ -1,7 +1,12 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil 👋
 
-Meu nome é Kaueh 
+**Meu nome é Kaueh** 
 
--Vou utilizar esse espaço para postar meus trabalhos
+- Estou estudando na [alura](https://cursos.alura.com.br/dashboard)
 
--Juntamente com o que estou estudando com meus alunos
+- Utilizo esse espaço para organizar e compartilhar meu projetos
+
+  ### Voce pode entrar em contato comigo 
+
+ @Kaueh_
+
